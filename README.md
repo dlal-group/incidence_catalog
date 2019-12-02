@@ -43,3 +43,7 @@ Generates figure 1 from "A catalog of new incidence estimates of monogenic neuro
 
 **Section 6 : Mouse lethality, human cell essentiality, and make supplementary files**
 Incorporates data regarding heterozygous embryonic lethality of orthologous genes in mice (list_mouse_het_lethal_genes.tsv) and gene essentiality for human cell viability from CRISPR screens (CEGv2_subset_universe.tsv) and generates the supplementary data files with the full catalog of incidence estimates for all 3,207 genes for which incidence was predicted.
+
+## Final Remarks
+
+After running the provided R script the user should be able to produce the catalog of predicted per-gene incidence estimates for 101 established neurodevelopmental disorder genes and 3,106 variant intolerant genes. The complete study and detailed method description is available in: A catalog of new incidence estimates of monogenic neurodevelopmental disorders, Lopez-Rivera et al.
